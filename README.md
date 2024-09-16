@@ -3,34 +3,34 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-execução">Execução</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-execução">Execução</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript
 - Node
-- Git
+- Git & Github
 
-## 💻 Projeto
+## Projeto
 
 A aplicação faz parte de um exercício para introduzir ao JavaScript e o Node.
 
-## :memo: Execução
+## Execução
 
 Siga abaixo os seguinte passos para execução do programa:
 
-1. Clone o repositório utilizando:
+1. Clone o repositório:
 
 ```bash
   git clone https://github.com/quirinof/nlw-pocket-beginner.git
 ```
 
-2. Agora, vá para o diretório na sua IDE utilizando:
+2. Vá para o diretório:
 
 ```bash
   cd nlw-pocket-beginner
@@ -42,7 +42,7 @@ Siga abaixo os seguinte passos para execução do programa:
   npm install
 ```
 
-4. Agora, após instaladas as dependências, basta executar o comando para rodar o projeto:
+4. Agora basta executar este comando para iniciar o programa:
 
 ```bash
   node index.js
