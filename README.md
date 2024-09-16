@@ -3,12 +3,12 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-execução">Execução</a>&nbsp;&nbsp;&nbsp;
+  <a href="#memo-execução">Execução</a>
 </p>
 
 <br>
 
-## Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -16,11 +16,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Node
 - Git & Github
 
-## Projeto
+## 💻 Projeto
 
 A aplicação faz parte de um exercício para introduzir ao JavaScript e o Node.
 
-## Execução
+## :memo: Execução
 
 Siga abaixo os seguinte passos para execução do programa:
 
