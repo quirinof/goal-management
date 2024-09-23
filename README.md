@@ -10,7 +10,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse programa foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript
 - Node
@@ -27,13 +27,13 @@ Siga abaixo os seguinte passos para execução do programa:
 1. Clone o repositório:
 
 ```bash
-  git clone https://github.com/quirinof/nlw-pocket-beginner.git
+  git clone https://github.com/quirinof/goal-management.git
 ```
 
 2. Vá para o diretório:
 
 ```bash
-  cd nlw-pocket-beginner
+  cd goal-management
 ```
 
 3. Instale todas as dependências necessárias utilizando:
